@@ -1,4 +1,4 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=shirshak007)
+![GitHub stats](https://shirshak007.pythonanywhere.com/github/card/shirshak007.svg)
 
 - 👋 Hi, I’m @shirshak007
 - 👀 I’m interested in coding, debugging and solving new problems
